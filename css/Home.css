@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#Navbar-Section .brand-logo img{
+    height: 80px !important;
+}
+#Hero-image .hero-img img{
+    height: 630px !important;;
+}
+#Categories-Section img{
+    border-radius: 50%;
+    height: 50%;
+}
+#Featured-Section{
+
+background-color: rgba(239,239,239,255) !important;
+}
+Footer{
+    background-color: #212934 !important;
+}
+
+@media (max-width:320px) {
+    #Hero-image .hero-img img{
+        height: 300px !important;;
+    }
+}
